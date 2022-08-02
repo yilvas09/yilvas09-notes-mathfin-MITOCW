@@ -1,16 +1,8 @@
 # Welcome to MkDocs
 
-For better reading experience, read the notes on https://yilvas09-notes-mathfin-mitocw.readthedocs.io/en/latest/.
+For better reading experience, visit [Read the Docs](https://yilvas09-notes-mathfin-mitocw.readthedocs.io/en/latest/).
+
 [![Documentation Status](https://readthedocs.org/projects/yilvas09-notes-mathfin-mitocw/badge/?version=latest)](https://yilvas09-notes-mathfin-mitocw.readthedocs.io/en/latest/?badge=latest)
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
 # Example Project usage
 
