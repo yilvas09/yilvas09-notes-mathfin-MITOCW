@@ -1,7 +1,6 @@
 # Welcome to MkDocs
 
-For better reading experience, visit [Read the Docs](https://yilvas09-notes-mathfin-mitocw.readthedocs.io/en/latest/).
-
+For better reading experience, visit [Read the Docs](https://yilvas09-notes-mathfin-mitocw.readthedocs.io/en/latest/). 
 [![Documentation Status](https://readthedocs.org/projects/yilvas09-notes-mathfin-mitocw/badge/?version=latest)](https://yilvas09-notes-mathfin-mitocw.readthedocs.io/en/latest/?badge=latest)
 
 # Example Project usage
