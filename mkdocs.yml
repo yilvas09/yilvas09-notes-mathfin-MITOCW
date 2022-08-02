@@ -1,4 +1,10 @@
-site_name: My very first readthedocs try-out
+# For detailed options see https://www.mkdocs.org/user-guide/configuration/
+site_name: Notes for Topics in Mathematical Finance
+site_url: https://notes-mathfin.com/ 
+repo_url: https://github.com/yilvas09/yilvas09-notes-mathfin-MITOCW
+site_author: Yutong Zhao
+
+
 theme:
   name: readthedocs
   highlightjs: true
