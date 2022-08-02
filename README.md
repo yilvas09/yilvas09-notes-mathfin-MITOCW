@@ -1,6 +1,6 @@
 # Welcome to MkDocs
 
-[![Documentation Status](https://readthedocs.org/projects/example-mkdocs-basic/badge/?version=latest)](https://example-mkdocs-basic.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/yilvas09-notes-mathfin-mitocw/badge/?version=latest)](https://yilvas09-notes-mathfin-mitocw.readthedocs.io/en/latest/?badge=latest)
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
