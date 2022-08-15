@@ -30,8 +30,8 @@ extra_javascript:
 
 nav:
 - Introduction: 'index.md'
-- [0] Stochastic Process:
-  - Discrete-time Stochastic Process: 'discrete-time.md'
-  - Continuous-time Stochastic Process: 'continuous-time.md'
-  - Ito Calculus: 'Ito-calculus.md'
-  - Stochastic Differential Equations: 'stochastic-differential-equation.md'
+- '[0] Stochastic Process':
+  - 'Discrete-time Stochastic Process': 'discrete-time.md'
+  - 'Continuous-time Stochastic Process': 'continuous-time.md'
+  - 'Ito Calculus': 'Ito-calculus.md'
+  - 'Stochastic Differential Equations': 'stochastic-differential-equation.md'
