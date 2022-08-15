@@ -4,7 +4,6 @@ site_url: https://notes-mathfin.com/
 repo_url: https://github.com/yilvas09/yilvas09-notes-mathfin-MITOCW
 site_author: Yutong Zhao
 
-
 theme:
   name: readthedocs
   highlightjs: true
@@ -31,7 +30,7 @@ extra_javascript:
 nav:
 - Introduction: 'index.md'
 - '[0] Stochastic Process':
-  - 'Discrete-time Stochastic Process': 'discrete-time.md'
-  - 'Continuous-time Stochastic Process': 'continuous-time.md'
-  - 'Ito Calculus': 'Ito-calculus.md'
-  - 'Stochastic Differential Equations': 'stochastic-differential-equation.md'
+  - 'Discrete-time Stochastic Process': '[0]-Stochastic Process/discrete-time.md'
+  - 'Continuous-time Stochastic Process': '[0]-Stochastic Process/continuous-time.md'
+  - 'Ito Calculus': '[0]-Stochastic Process/Ito-calculus.md'
+  - 'Stochastic Differential Equations': '[0]-Stochastic Process/stochastic-differential-equation.md'
